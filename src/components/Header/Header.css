@@ -1,0 +1,8 @@
+.navbar{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.navbar CustomLink{
+    margin-right: 10px;
+}
